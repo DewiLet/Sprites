@@ -23,6 +23,7 @@ Remerciements :
 - Kumicorne pour son aide plus que précieuse, m'a permis de trouver énormément de sprite à télécharger facilement !
 - Nautoum pour son aide pour les sprites 3D en HD !
 - Gaven pour son aide pour certains téléchargements de sprite !
+- Randei pour son aide pour les sprites de Colosseum et XD !
 
 Sources utilisés : 
 - pokekalos.fr
