@@ -4,6 +4,7 @@ Voici une liste de ce qu'il manque au dossier :
 - Les sprites statiques (pas animé) shiny de X&Y - ROSA, USUL & Bouclier/Epee
 - Les sprites Shuffles après la 7g
 - Les previews sprites classique de la 9g
+- Manque certains sprites dans "6-7-8-9G Style 5G", notamment sur les animés, et quelques classiques/shiny des statiques.
 
 Ensuite, une liste de ce que je n'ai pas renommée (parce que trop pénible/long) :
 - Les femelles (dans les dossiers Femelles), les backs (sprite de dos), les Mega et autres formes alternative
